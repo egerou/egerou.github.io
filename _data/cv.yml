@@ -2,31 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Emilie Gerouville
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th July 1997
     - name: Languages
-      value: English, German
+      value: English, French, German, Japanese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: University of Southampton, Southampton, United Kingdom
       year: 1905
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Led clean-room fabrication of asymmetric coplanar nanogap separated electrodes using photolithography and metal deposition
+        - Optimised solution-based material protocols
+        - Characterized redox-based resistive memories for neuromorphic applications, analyzing electrical performance metrics
+        - Conducted comprehensive material analysis using advanced spectroscopy (XPS, UV/Vis, Raman) and microscopy (AFM, SEM) techniques
 
 - title: Experience
   type: time_table

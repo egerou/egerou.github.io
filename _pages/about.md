@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Let's talk about science!</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>I'm super excited to start working in science education.</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Emilie, I just finished my PhD in electronics and material science. I'm super excited to start working in science education. Wish me luck!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Here's a bit more about me: I was born in the United States of America, but grew up in Belgium. I recently finished my PhD about using new materials called [Polyoxometalates](https://en.wikipedia.org/wiki/Polyoxometalate) to make better electronic memories (information storage). If you'd like to learn more about my research, check out my [PhD research blog post](/blog/2024/phd/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I studied chemistry at the Université Libre de Bruxelles (Belgium), and then got a combined international master's degree (Advanced Spectroscopy in Chemistry) from the Université de Lille (France), Universität Leipzig (Germany), and Uniwersytet Jagielloński w Krakowie (Poland).
+
+Besides science, I also really enjoy travelling and meeting people. To combine all my passions, my goal is to become an outreach scientist. In this blog, I'd like to showcase my existing scientific, communication, and organizational expertise along with the new skills I will acquire along the way. For example, in the [teaching section](/teaching), you can find some workshop materials I created in the past. If you're interested in reading more about my work, please look through my [blog posts](/blog/), and check out my [CV](/cv/). If you have any questions, feel free to email me (see below)!

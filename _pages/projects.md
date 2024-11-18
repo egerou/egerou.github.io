@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: workshops
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of fun science workshops
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [light, chemistry, electronics]
 horizontal: false
 ---
 
