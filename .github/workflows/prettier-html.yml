@@ -1,4 +1,4 @@
-name: Prettify gh-pages
+  name: Prettify gh-pages
 
 on:
   workflow_dispatch:
