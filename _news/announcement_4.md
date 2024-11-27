@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-18 10:00:00
+date: 2024-11-27 10:00:00
 inline: true
 related_posts: false
 ---
 
-Coming Soon: Mixtures workshop material
+New workshop material: [Mixtures](/projects/2_project_mixtures/)
