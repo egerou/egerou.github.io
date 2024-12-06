@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-27 11:00:00
+date: 2024-12-06 10:00:00
 inline: true
 related_posts: false
 ---
 
-Coming Soon: The importance of activity reporting in outreach and public engagement
+New blog post: [Why take time to write activity reports?](/blog/2024/importance-of-reporting/)
