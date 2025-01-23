@@ -2,7 +2,7 @@
 layout: post
 title: Why take time to write activity reports?
 date: 2024-12-06 08:00:00
-description: Let's talk about my the importance of activity reporting!
+description: Let's talk about the importance of activity reporting!
 tags: reporting
 categories: outreach
 disqus_comments: true
