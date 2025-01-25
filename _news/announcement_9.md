@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New workshop material: [Reflection](/projects/1_project_reflection/)
+Coming soon: What to think about when designing an outreach activity?

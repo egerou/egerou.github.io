@@ -5,11 +5,10 @@ date: 2024-12-06 08:00:00
 description: Let's talk about the importance of activity reporting!
 tags: reporting
 categories: outreach
-disqus_comments: true
 related_posts: false
 ---
 
-Welcome to this blog post! I'd like to discuss the importance of public engagement activity reporting. Feel free to leave a comment below with your thoughts on the topic!
+Welcome to this blog post! I'd like to discuss the importance of public engagement activity reporting. Feel free to contact with your thoughts on the topic!
 
 I find that activity reporting is very important, but often is the first task to get pushed aside in time crunches. That's why I'd like to talk more about why reporting is so important and why we should take care to do it well. As with any report, it's important to keep in mind why it's being written, and who will benefit from it. So let's try to answer these questions!
 
@@ -50,4 +49,4 @@ To continue running workshops and activities, funding will eventually become a n
 
 I find that these activity reports can be very useful when advertising future activities. For example, I can use the data in the reports to showcase the success of previous activities which can suggest that this one will be great as well! Do you look through activity reports when advertising your next one?
 
-Overall, there are many reasons why we should take the time to write activity reports even during busy times. Why do **you** take the time to write activity reports? Let us know in the comments below!
+Overall, there are many reasons why we should take the time to write activity reports even during busy times. Why do **you** take the time to write activity reports? Send me an email to let me know!
