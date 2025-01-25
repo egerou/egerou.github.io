@@ -43,7 +43,7 @@ Right below, you will find a presentation to support to delivery of the workshop
 <div class="download-container" style="display: flex; gap: 200px; justify-content: center; align-items: center;">
   <div class="download-section" style="text-align: center;">
     <h4>Workshop support presentation</h4>
-    <a href="/assets/pdf/Spectroscopes_ Presentation.pdf" download>
+    <a href="/assets/pdf/Spectroscopes_Presentation.pdf" download>
       <i class="fas fa-file-pdf" style="font-size: 50px"></i>
     </a>
   </div>
